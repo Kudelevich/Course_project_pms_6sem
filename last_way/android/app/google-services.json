@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "758498944174",
+    "project_id": "last-way",
+    "storage_bucket": "last-way.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758498944174:android:65a9c36da7512ca378793f",
+        "android_client_info": {
+          "package_name": "com.example.last_way"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfScgf2YRO64OhYgXw_4g0nypYn_yytGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758498944174:android:9ed598aa95b030be78793f",
+        "android_client_info": {
+          "package_name": "com.example.lastway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfScgf2YRO64OhYgXw_4g0nypYn_yytGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
